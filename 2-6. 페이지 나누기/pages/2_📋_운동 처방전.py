@@ -8,7 +8,7 @@ from streamlit_extras.switch_page_button import switch_page
 # pip install streamlit_extras 필수
 
 # OpenAI API 키 설정
-api_key = "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"
+api_key = "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"
 openai.api_key = api_key
 
 # Streamlit 앱 시작
